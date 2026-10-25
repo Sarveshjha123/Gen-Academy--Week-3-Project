@@ -1,0 +1,16 @@
+contract_id,vendor_id,vendor_name,effective_date,expiry_date,auto_renew,non_renewal_notice_days
+MSA-V01-2025,V01,Apex Fluid Systems,2025-05-11,2028-06-12,True,60
+MSA-V02-2025,V02,Brightline Motion,2025-05-30,2028-04-21,True,60
+MSA-V03-2025,V03,Cobalt Bearings Co.,2025-05-10,2027-01-29,True,30
+MSA-V04-2025,V04,Delta Drive Components,2025-08-06,2026-09-30,False,45
+MSA-V05-2025,V05,Evergreen Industrial Supply,2025-11-12,2028-07-27,True,30
+MSA-V06-2025,V06,Forge & Fastener Inc.,2025-12-19,2028-04-26,True,30
+MSA-V07-2024,V07,Granite Controls,2024-08-05,2026-12-15,True,30
+MSA-V08-2025,V08,Harbor Steel Works,2025-12-11,2027-01-09,True,60
+MSA-V09-2025,V09,Ironwood Hydraulics,2025-08-21,2028-04-15,True,90
+MSA-V10-2024,V10,Juniper Electric,2024-12-13,2027-12-24,True,90
+MSA-V11-2025,V11,Keystone Pneumatics,2025-10-19,2028-05-10,True,30
+MSA-V12-2024,V12,Lumen Sensors,2024-05-25,2027-03-15,False,90
+MSA-V13-2024,V13,Meridian Metals,2024-09-08,2028-07-29,True,30
+MSA-V14-2024,V14,Northstar Automation,2024-10-24,2027-08-15,True,60
+MSA-V15-2024,V15,Orion Seals & Gaskets,2024-11-09,2028-01-17,True,90

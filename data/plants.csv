@@ -1,0 +1,6 @@
+plant_id,plant_name,state,lat,lon,plant_head,warehouse_capacity_units
+AUS,Austin,TX,30.27,-97.74,Dana Whitfield,9000
+DAL,Dallas,TX,32.78,-96.8,Marcus Bell,11000
+HOU,Houston,TX,29.76,-95.37,Priya Raman,10000
+PHX,Phoenix,AZ,33.45,-112.07,Luis Ortega,8000
+DEN,Denver,CO,39.74,-104.99,Hannah Cole,7500

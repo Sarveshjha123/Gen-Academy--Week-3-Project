@@ -1,0 +1,16 @@
+vendor_id,vendor_name,risk_score,risk_band,delivery_risk,quality_risk,financial_risk,geo_supply_risk,method,scored_on
+V01,Apex Fluid Systems,34,Low,22,19,42,27,"SIMULATED (random, seed 42)",2026-10-23
+V02,Brightline Motion,33,Low,25,22,41,21,"SIMULATED (random, seed 42)",2026-10-23
+V03,Cobalt Bearings Co.,52,Medium,39,55,50,38,"SIMULATED (random, seed 42)",2026-10-23
+V04,Delta Drive Components,77,High,64,68,69,78,"SIMULATED (random, seed 42)",2026-10-23
+V05,Evergreen Industrial Supply,41,Low,26,43,32,48,"SIMULATED (random, seed 42)",2026-10-23
+V06,Forge & Fastener Inc.,52,Medium,50,44,51,55,"SIMULATED (random, seed 42)",2026-10-23
+V07,Granite Controls,35,Low,45,47,20,44,"SIMULATED (random, seed 42)",2026-10-23
+V08,Harbor Steel Works,28,Low,35,26,23,21,"SIMULATED (random, seed 42)",2026-10-23
+V09,Ironwood Hydraulics,81,High,72,96,90,76,"SIMULATED (random, seed 42)",2026-10-23
+V10,Juniper Electric,24,Low,11,21,12,20,"SIMULATED (random, seed 42)",2026-10-23
+V11,Keystone Pneumatics,40,Low,44,33,50,26,"SIMULATED (random, seed 42)",2026-10-23
+V12,Lumen Sensors,63,Medium,65,51,77,60,"SIMULATED (random, seed 42)",2026-10-23
+V13,Meridian Metals,23,Low,25,17,34,28,"SIMULATED (random, seed 42)",2026-10-23
+V14,Northstar Automation,28,Low,41,40,24,31,"SIMULATED (random, seed 42)",2026-10-23
+V15,Orion Seals & Gaskets,30,Low,37,17,16,36,"SIMULATED (random, seed 42)",2026-10-23

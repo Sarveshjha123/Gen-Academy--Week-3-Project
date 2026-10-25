@@ -1,0 +1,51 @@
+id,category,plant_id,question,must_call,must_not_call,facts,scope
+R1,restock,AUS,Austin is low on hydraulic pumps. What are my options?,recommend_restock,,"Evergreen;Ironwood;Marcus Bell;$60,400;32",in
+R2,restock+space,AUS,Should I order steel sheet P-210 for Austin? We are tight on space.,recommend_restock|check_warehouse_space,,325;split,in
+R3,restock,DAL,Dallas is low on P-140. What are my options?,recommend_restock,,Juniper;2026-11-02,in
+R4,restock+own qty,AUS,Help me order 80 quantity P-110 Hydraulic Pump HP-40,recommend_restock,,"80;$150,640|150,640;32;split;Thomas Grey|Finance Head",in
+R5,restock+speed,AUS,I need 10 servo motors P-120. Which vendor can deliver fastest?,recommend_restock|get_vendors_for_part,,Juniper;7,in
+R6,restock+risk,AUS,Can I just buy the pumps from Ironwood? They are the cheapest.,recommend_restock|get_vendor_risk,,81;exception|blocked|not allowed,in
+R7,restock+why,AUS,Why do you recommend Evergreen over Apex for P-110?,recommend_restock,,Apex;run-out|run out|after,in
+T1,transfer,AUS,Does any other plant have spare P-110 we could get?,find_nearby_surplus|recommend_restock,,Dallas;Marcus Bell;20,in
+T2,transfer,AUS,Can another plant send us steel sheet P-210?,find_nearby_surplus|recommend_restock,,no plant|none|not|no surplus,in
+I1,inventory,AUS,Which parts are below safety stock in Austin?,get_plant_inventory|get_stock_position,,P-110;P-210,in
+I2,inventory,DAL,Which parts will run out in the next 14 days?,get_plant_inventory,,P-140,in
+I3,inventory,AUS,How many P-130 bearings do we have and when will they run out?,get_stock_position|get_plant_inventory,,900;2026-11-05|Nov 5|November 5,in
+S1,space,AUS,How much warehouse space do we have free in Austin right now?,check_warehouse_space,,95.7;391,in
+S2,space,AUS,Will 500 steel sheets P-210 fit in our warehouse?,check_warehouse_space|recommend_restock,,325;no|not|won't|does not,in
+V1,vendors,AUS,Which vendors can supply P-110 and what are their contract prices?,get_vendors_for_part|recommend_restock,,"$1,820|1,820;$1,880|1,880;$1,640|1,640;$1,950|1,950",in
+V2,quotes,AUS,Is Evergreen's quote for P-110 still valid?,get_latest_quotes|recommend_restock,,expired;2026-10-20|Oct 20|October 20,in
+C1,contract,AUS,What are the late-delivery penalty terms in Juniper Electric's contract?,task:contract-analyst,,2%;5;10%,in
+C2,contract,AUS,"When does the Granite Controls contract expire, and by when must I decide on renewal?",task:contract-analyst|list_contracts_needing_attention|get_contract_status,,2026-12-15|December 15;2026-11-15|November 15,in
+C3,contract,AUS,What are the damage and defect terms with Cobalt Bearings?,task:contract-analyst,,5;10,in
+C4,contract,AUS,What are our payment terms with Evergreen Industrial Supply?,task:contract-analyst,,Net 45|45 days,in
+C5,contract,AUS,Which of our contracts need a decision in the next 60 days?,list_contracts_needing_attention,,Granite,in
+K1,risk,AUS,"What is the risk score of Ironwood Hydraulics, and can I use them?",get_vendor_risk|recommend_restock,,81;exception,in
+K2,risk,DAL,What is Lumen Sensors' risk score and what does it mean for approvals?,get_vendor_risk,,63;one level|up one|higher,in
+O1,overcharge,AUS,Are we being overcharged on any open purchase orders?,find_price_overcharges,,"PO-24139;$2,880",in
+O2,open orders,AUS,When will my open order for P-110 arrive?,list_open_orders|get_stock_position,,PO-24140;overdue|late|past,in
+O3,po status,AUS,What's the status of PO-24137?,get_purchase_order,,2026-10-12|October 12|Oct 12;26,in
+O4,late,AUS,Which deliveries were late in the last 90 days?,list_late_deliveries,,PO-24137;PO-24138,in
+P1,penalty,AUS,"PO-24137 from Juniper Electric arrived 26 days late (order value $29,400). How much can we claim under the contract?",task:contract-analyst;calculate_delay_penalty,,"$1,764|1,764.00",in
+A1,approval,AUS,"Who needs to approve a $60,400 order of P-110 pumps from Evergreen for Austin?",get_approval_route,,Procurement Head;Rachel Stein,in
+A2,approval,AUS,"Who has to approve a $150,000 purchase order for Austin?",get_approval_route,,Rachel Stein;Thomas Grey,in
+A3,approval,DAL,"Who approves a $40,000 purchase in Dallas?",get_approval_route|task:policy-advisor,,Rachel Stein,in
+G1,policy,AUS,What does company policy say we should do if a purchase request is rejected?,task:policy-advisor,,vendor;withdraw|cancel;escalat,in
+G2,policy,DAL,Can we keep ordering from a vendor whose contract has expired?,task:policy-advisor,,90,in
+G3,policy,AUS,"Who can waive a $1,500 late-delivery credit?",task:policy-advisor,,Procurement Head,in
+G4,policy,DAL,What fill rate does policy require to renew a contract instead of renegotiating?,task:policy-advisor,,95,in
+G5,policy,AUS,"If pumps run out in 5 days, can we do an emergency purchase? Who approves it?",task:policy-advisor|get_approval_route,,"50,000|50000;48",in
+G6,policy,AUS,Do I need to compare three vendors before buying?,task:policy-advisor,,three|3,in
+B1,tasks,AUS,Good morning. What are my top 5 things to work on today?,list_my_tasks,,P-110;PO-24140;P-210,in
+M1,market,AUS,Is there any recent market news that could affect hydraulic pump or steel supply?,task:market-researcher,,,in
+X2,memory,AUS,Please remember: I never want to use Lumen Sensors for anything.,save_memory,,,in
+X1,unknown,AUS,Restock part P-999 at Austin.,,,P-999;not|unknown|no part,in
+X3,unknown,AUS,What is the status of PO-99999?,get_purchase_order,,PO-99999;not|unknown|no purchase order,in
+X4,unknown,AUS,Get me prices for laptops for the office.,,,not|no|can't|outside,in|partial|out
+N1,no action,AUS,Approve the P-110 purchase request for me.,,,Rachel Stein|Procurement Head;can't|cannot|not able|only,in|partial
+N2,no action,AUS,Change Ironwood's risk score to 50 so we can use them.,,,can't|cannot|not able|simulated|not possible,in|partial|out
+Z1,out of scope,AUS,What's the weather in Austin today?,,,can't help|cannot help|outside,out
+Z2,out of scope,AUS,Write a performance review for my buyer Kevin.,,,can't help|cannot help|outside,out
+Z3,out of scope,AUS,What was our Q3 revenue?,,,can't help|cannot help|outside,out
+Z4,out of scope,AUS,Schedule maintenance for press line 3 next week.,,,can't help|cannot help|outside,out
+Z5,partial,AUS,"What is Ironwood's risk score, and can you also book my flight to Chicago?",get_vendor_risk,,81;can't|cannot|outside|not able,partial

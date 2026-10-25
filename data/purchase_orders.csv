@@ -1,0 +1,47 @@
+po_id,plant_id,vendor_id,vendor_name,part_id,qty,unit_price_usd,po_value_usd,order_date,promised_date,received_date,status,note
+PO-24101,PHX,V05,Evergreen Industrial Supply,P-260,50,81.21,4060.5,2026-08-19,2026-09-09,2026-09-10,received,
+PO-24102,HOU,V10,Juniper Electric,P-290,30,172.0,5160.0,2026-10-04,2026-10-25,2026-10-24,received,
+PO-24103,PHX,V01,Apex Fluid Systems,P-190,100,46.11,4611.0,2026-07-21,2026-08-04,2026-08-06,received,
+PO-24104,PHX,V05,Evergreen Industrial Supply,P-200,1500,18.21,27315.0,2026-09-08,2026-09-22,2026-09-24,received,
+PO-24105,DAL,V09,Ironwood Hydraulics,P-300,100,37.65,3765.0,2026-07-18,2026-08-22,2026-08-22,received,
+PO-24106,AUS,V11,Keystone Pneumatics,P-200,100,18.96,1896.0,2026-07-24,2026-08-03,2026-08-03,received,
+PO-24107,DAL,V14,Northstar Automation,P-130,3000,7.1,21300.0,2026-07-03,2026-07-23,2026-07-23,received,
+PO-24108,DAL,V11,Keystone Pneumatics,P-170,15,676.0,10140.0,2026-07-31,2026-08-14,2026-08-15,received,
+PO-24109,HOU,V10,Juniper Electric,P-160,8,3702.0,29616.0,2026-08-30,2026-09-09,2026-09-11,received,
+PO-24110,HOU,V14,Northstar Automation,P-140,1,3045.0,3045.0,2026-09-18,2026-10-02,2026-10-01,received,
+PO-24111,DAL,V15,Orion Seals & Gaskets,P-230,60,80.09,4805.4,2026-09-25,2026-10-23,2026-10-22,received,
+PO-24112,PHX,V09,Ironwood Hydraulics,P-110,6,1640.0,9840.0,2026-08-09,2026-08-27,2026-08-27,received,
+PO-24113,HOU,V12,Lumen Sensors,P-290,60,154.0,9240.0,2026-09-23,2026-10-14,2026-10-16,received,
+PO-24114,DAL,V05,Evergreen Industrial Supply,P-260,75,81.21,6090.75,2026-07-20,2026-08-10,2026-08-10,received,
+PO-24115,AUS,V10,Juniper Electric,P-250,20,1095.0,21900.0,2026-09-22,2026-10-13,2026-10-13,received,
+PO-24116,AUS,V10,Juniper Electric,P-120,20,1254.0,25080.0,2026-09-22,2026-09-29,2026-09-29,received,
+PO-24117,DAL,V03,Cobalt Bearings Co.,P-280,800,21.81,17448.0,2026-08-09,2026-09-06,2026-09-06,received,
+PO-24118,DEN,V14,Northstar Automation,P-240,50,197.0,9850.0,2026-08-14,2026-09-11,2026-09-13,received,
+PO-24119,AUS,V15,Orion Seals & Gaskets,P-260,100,79.07,7907.0,2026-09-01,2026-09-22,2026-09-22,received,
+PO-24120,HOU,V14,Northstar Automation,P-170,20,613.0,12260.0,2026-09-06,2026-09-13,2026-09-12,received,
+PO-24121,HOU,V10,Juniper Electric,P-140,3,2843.0,8529.0,2026-09-29,2026-10-13,2026-10-13,received,
+PO-24122,HOU,V11,Keystone Pneumatics,P-170,20,676.0,13520.0,2026-09-25,2026-10-09,2026-10-11,received,
+PO-24123,DAL,V01,Apex Fluid Systems,P-300,100,39.06,3906.0,2026-06-28,2026-07-26,2026-07-26,received,
+PO-24124,DAL,V15,Orion Seals & Gaskets,P-150,100,52.51,5251.0,2026-09-28,2026-10-08,2026-10-07,received,
+PO-24125,DEN,V15,Orion Seals & Gaskets,P-170,10,678.0,6780.0,2026-09-07,2026-09-17,2026-09-17,received,
+PO-24126,DAL,V01,Apex Fluid Systems,P-300,300,39.06,11718.0,2026-09-18,2026-10-16,2026-10-16,received,
+PO-24127,DEN,V05,Evergreen Industrial Supply,P-190,50,44.35,2217.5,2026-07-14,2026-08-11,2026-08-10,received,
+PO-24128,AUS,V07,Granite Controls,P-150,1500,52.54,78810.0,2026-06-28,2026-07-26,2026-07-26,received,
+PO-24129,DEN,V06,Forge & Fastener Inc.,P-210,40,98.36,3934.4,2026-09-03,2026-09-24,2026-09-24,received,
+PO-24130,DAL,V14,Northstar Automation,P-240,25,197.0,4925.0,2026-07-03,2026-07-31,2026-07-31,received,
+PO-24131,PHX,V10,Juniper Electric,P-250,5,1095.0,5475.0,2026-08-10,2026-08-31,2026-09-01,received,
+PO-24132,DAL,V01,Apex Fluid Systems,P-300,300,39.06,11718.0,2026-08-09,2026-09-06,2026-09-08,received,
+PO-24133,AUS,V14,Northstar Automation,P-120,20,1289.0,25780.0,2026-08-13,2026-08-20,2026-08-22,received,
+PO-24134,AUS,V15,Orion Seals & Gaskets,P-260,100,79.07,7907.0,2026-09-27,2026-10-18,2026-10-18,received,
+PO-24135,HOU,V05,Evergreen Industrial Supply,P-300,500,32.61,16305.0,2026-09-20,2026-10-18,2026-10-18,received,
+PO-24136,DEN,V14,Northstar Automation,P-290,75,156.0,11700.0,2026-08-19,2026-09-09,2026-09-10,received,
+PO-24137,AUS,V10,Juniper Electric,P-250,30,980.0,29400.0,2026-08-17,2026-09-16,2026-10-12,received,received 26 days late
+PO-24138,AUS,V02,Brightline Motion,P-120,12,1158.0,13896.0,2026-09-11,2026-10-06,2026-10-17,received,received 11 days late
+PO-24139,AUS,V03,Cobalt Bearings Co.,P-130,4000,7.45,29800.0,2026-10-20,2026-11-01,,open,unit price above contract rate
+PO-24140,AUS,V09,Ironwood Hydraulics,P-110,6,1640.0,9840.0,2026-09-26,2026-10-18,,open,"open and overdue, high-risk vendor"
+PO-24141,AUS,V07,Granite Controls,P-160,2,3400.0,6800.0,2026-10-16,2026-11-07,,open,
+PO-24142,DAL,V08,Harbor Steel Works,P-210,300,108.5,32550.0,2026-10-11,2026-10-31,,open,unit price above contract rate
+PO-24143,HOU,V02,Brightline Motion,P-120,8,1290.0,10320.0,2026-09-28,2026-10-23,,open,open and overdue
+PO-24144,PHX,V13,Meridian Metals,P-210,200,99.0,19800.0,2026-09-16,2026-10-08,2026-10-24,received,received 16 days late
+PO-24145,DAL,V04,Delta Drive Components,P-120,4,1312.0,5248.0,2026-10-01,2026-11-05,,open,open; supplier contract expired
+PO-24146,DAL,V14,Northstar Automation,P-130,3000,7.1,21300.0,2026-09-06,2026-09-26,2026-10-14,received,received 18 days late

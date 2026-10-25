@@ -1,0 +1,76 @@
+contract_id,vendor_id,vendor_name,part_id,part_name,contract_rate_usd,moq,lead_time_days,freight_per_order_usd
+MSA-V01-2025,V01,Apex Fluid Systems,P-110,Hydraulic Pump HP-40,1820,4,21,180
+MSA-V05-2025,V05,Evergreen Industrial Supply,P-110,Hydraulic Pump HP-40,1880,2,10,240
+MSA-V09-2025,V09,Ironwood Hydraulics,P-110,Hydraulic Pump HP-40,1640,6,18,150
+MSA-V14-2024,V14,Northstar Automation,P-110,Hydraulic Pump HP-40,1950,4,14,320
+MSA-V02-2025,V02,Brightline Motion,P-120,Servo Motor 2kW,1158.0,5,28,120
+MSA-V04-2025,V04,Delta Drive Components,P-120,Servo Motor 2kW,1312.0,2,49,150
+MSA-V10-2024,V10,Juniper Electric,P-120,Servo Motor 2kW,1254.0,5,7,90
+MSA-V14-2024,V14,Northstar Automation,P-120,Servo Motor 2kW,1289.0,5,7,90
+MSA-V03-2025,V03,Cobalt Bearings Co.,P-130,Ball Bearing 6205,6.8,500,12,90
+MSA-V14-2024,V14,Northstar Automation,P-130,Ball Bearing 6205,7.1,1000,20,260
+MSA-V15-2024,V15,Orion Seals & Gaskets,P-130,Ball Bearing 6205,6.95,250,9,120
+MSA-V02-2025,V02,Brightline Motion,P-140,Gearbox GX-20,2958.0,5,28,260
+MSA-V04-2025,V04,Delta Drive Components,P-140,Gearbox GX-20,2704.0,2,21,150
+MSA-V10-2024,V10,Juniper Electric,P-140,Gearbox GX-20,2843.0,1,14,120
+MSA-V14-2024,V14,Northstar Automation,P-140,Gearbox GX-20,3045.0,1,14,260
+MSA-V07-2024,V07,Granite Controls,P-150,Proximity Sensor PX-12,52.54,500,28,120
+MSA-V12-2024,V12,Lumen Sensors,P-150,Proximity Sensor PX-12,52.98,100,24,420
+MSA-V15-2024,V15,Orion Seals & Gaskets,P-150,Proximity Sensor PX-12,52.51,50,10,150
+MSA-V04-2025,V04,Delta Drive Components,P-160,PLC Controller C-500,3645.0,10,49,120
+MSA-V07-2024,V07,Granite Controls,P-160,PLC Controller C-500,3260.0,1,21,90
+MSA-V10-2024,V10,Juniper Electric,P-160,PLC Controller C-500,3702.0,2,10,200
+MSA-V12-2024,V12,Lumen Sensors,P-160,PLC Controller C-500,3322.0,2,24,390
+MSA-V14-2024,V14,Northstar Automation,P-160,PLC Controller C-500,3554.0,10,14,150
+MSA-V11-2025,V11,Keystone Pneumatics,P-170,Conveyor Belt 10m,676.0,5,14,260
+MSA-V14-2024,V14,Northstar Automation,P-170,Conveyor Belt 10m,613.0,5,7,90
+MSA-V15-2024,V15,Orion Seals & Gaskets,P-170,Conveyor Belt 10m,678.0,5,10,260
+MSA-V05-2025,V05,Evergreen Industrial Supply,P-180,Pneumatic Valve PV-3,150.0,20,7,90
+MSA-V11-2025,V11,Keystone Pneumatics,P-180,Pneumatic Valve PV-3,139.0,20,35,150
+MSA-V15-2024,V15,Orion Seals & Gaskets,P-180,Pneumatic Valve PV-3,134.0,25,7,200
+MSA-V01-2025,V01,Apex Fluid Systems,P-190,Hydraulic Hose 2m,46.11,100,14,90
+MSA-V05-2025,V05,Evergreen Industrial Supply,P-190,Hydraulic Hose 2m,44.35,50,28,260
+MSA-V09-2025,V09,Ironwood Hydraulics,P-190,Hydraulic Hose 2m,44.15,100,14,200
+MSA-V14-2024,V14,Northstar Automation,P-190,Hydraulic Hose 2m,38.45,200,28,150
+MSA-V15-2024,V15,Orion Seals & Gaskets,P-190,Hydraulic Hose 2m,43.93,50,35,150
+MSA-V05-2025,V05,Evergreen Industrial Supply,P-200,Industrial Gasket Kit,18.21,500,14,200
+MSA-V11-2025,V11,Keystone Pneumatics,P-200,Industrial Gasket Kit,18.96,100,10,200
+MSA-V15-2024,V15,Orion Seals & Gaskets,P-200,Industrial Gasket Kit,18.83,500,35,120
+MSA-V06-2025,V06,Forge & Fastener Inc.,P-210,Steel Sheet 2mm,98.36,20,21,260
+MSA-V08-2025,V08,Harbor Steel Works,P-210,Steel Sheet 2mm,102.92,20,14,120
+MSA-V13-2024,V13,Meridian Metals,P-210,Steel Sheet 2mm,94.48,25,28,150
+MSA-V06-2025,V06,Forge & Fastener Inc.,P-220,Aluminium Extrusion 6m,64.15,20,35,120
+MSA-V08-2025,V08,Harbor Steel Works,P-220,Aluminium Extrusion 6m,64.8,25,10,90
+MSA-V13-2024,V13,Meridian Metals,P-220,Aluminium Extrusion 6m,61.6,25,35,260
+MSA-V05-2025,V05,Evergreen Industrial Supply,P-230,Welding Wire Spool,85.69,10,35,150
+MSA-V13-2024,V13,Meridian Metals,P-230,Welding Wire Spool,83.55,10,10,90
+MSA-V15-2024,V15,Orion Seals & Gaskets,P-230,Welding Wire Spool,80.09,20,28,90
+MSA-V04-2025,V04,Delta Drive Components,P-240,Safety Relay SR-2,210.0,25,42,120
+MSA-V07-2024,V07,Granite Controls,P-240,Safety Relay SR-2,222.0,20,21,200
+MSA-V10-2024,V10,Juniper Electric,P-240,Safety Relay SR-2,200.0,25,35,90
+MSA-V12-2024,V12,Lumen Sensors,P-240,Safety Relay SR-2,230.0,10,35,420
+MSA-V14-2024,V14,Northstar Automation,P-240,Safety Relay SR-2,197.0,25,28,200
+MSA-V02-2025,V02,Brightline Motion,P-250,VFD Drive 5kW,893.0,2,7,200
+MSA-V04-2025,V04,Delta Drive Components,P-250,VFD Drive 5kW,911.0,10,49,260
+MSA-V10-2024,V10,Juniper Electric,P-250,VFD Drive 5kW,1095.0,5,21,260
+MSA-V14-2024,V14,Northstar Automation,P-250,VFD Drive 5kW,1058.0,10,28,200
+MSA-V05-2025,V05,Evergreen Industrial Supply,P-260,Coolant 20L,81.21,25,21,200
+MSA-V13-2024,V13,Meridian Metals,P-260,Coolant 20L,70.82,10,35,150
+MSA-V15-2024,V15,Orion Seals & Gaskets,P-260,Coolant 20L,79.07,25,21,120
+MSA-V02-2025,V02,Brightline Motion,P-270,Linear Guide Rail,298.0,10,35,150
+MSA-V04-2025,V04,Delta Drive Components,P-270,Linear Guide Rail,295.0,20,28,260
+MSA-V10-2024,V10,Juniper Electric,P-270,Linear Guide Rail,284.0,10,10,200
+MSA-V14-2024,V14,Northstar Automation,P-270,Linear Guide Rail,326.0,25,10,90
+MSA-V03-2025,V03,Cobalt Bearings Co.,P-280,Fastener Kit M8,21.81,200,28,200
+MSA-V06-2025,V06,Forge & Fastener Inc.,P-280,Fastener Kit M8,21.81,100,21,200
+MSA-V15-2024,V15,Orion Seals & Gaskets,P-280,Fastener Kit M8,24.18,50,28,200
+MSA-V04-2025,V04,Delta Drive Components,P-290,Power Supply 24V,161.0,20,28,200
+MSA-V07-2024,V07,Granite Controls,P-290,Power Supply 24V,174.0,20,28,260
+MSA-V10-2024,V10,Juniper Electric,P-290,Power Supply 24V,172.0,10,21,120
+MSA-V12-2024,V12,Lumen Sensors,P-290,Power Supply 24V,154.0,20,21,500
+MSA-V14-2024,V14,Northstar Automation,P-290,Power Supply 24V,156.0,25,21,120
+MSA-V01-2025,V01,Apex Fluid Systems,P-300,Filter Cartridge FC-9,39.06,100,28,260
+MSA-V05-2025,V05,Evergreen Industrial Supply,P-300,Filter Cartridge FC-9,32.61,500,28,260
+MSA-V09-2025,V09,Ironwood Hydraulics,P-300,Filter Cartridge FC-9,37.65,50,35,200
+MSA-V14-2024,V14,Northstar Automation,P-300,Filter Cartridge FC-9,33.47,500,10,90
+MSA-V15-2024,V15,Orion Seals & Gaskets,P-300,Filter Cartridge FC-9,34.46,200,10,200

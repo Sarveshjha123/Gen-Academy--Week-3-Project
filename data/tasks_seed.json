@@ -1,0 +1,309 @@
+[
+ {
+  "id": "AUS-01",
+  "plant_id": "AUS",
+  "priority": "red",
+  "type": "restock",
+  "title": "Restock P-110 Hydraulic Pump HP-40",
+  "why": "6 on hand vs safety stock 8; runs out Nov 5. Critical part.",
+  "params": {
+   "part_id": "P-110"
+  },
+  "status": "open",
+  "order": 0,
+  "created": "2026-10-26",
+  "source": "seed"
+ },
+ {
+  "id": "AUS-02",
+  "plant_id": "AUS",
+  "priority": "red",
+  "type": "overdue_high_risk",
+  "title": "Overdue PO-24140 from Ironwood Hydraulics (risk 81)",
+  "why": "6 pumps were due Oct 18 (8 days late) from a high-risk vendor; we are short on this part.",
+  "params": {
+   "po_id": "PO-24140"
+  },
+  "status": "open",
+  "order": 1,
+  "created": "2026-10-26",
+  "source": "seed"
+ },
+ {
+  "id": "AUS-03",
+  "plant_id": "AUS",
+  "priority": "red",
+  "type": "restock",
+  "title": "Restock P-210 Steel Sheet 2mm",
+  "why": "50 on hand vs safety stock 80; about 6 days of cover. Warehouse is nearly full.",
+  "params": {
+   "part_id": "P-210"
+  },
+  "status": "open",
+  "order": 2,
+  "created": "2026-10-26",
+  "source": "seed"
+ },
+ {
+  "id": "AUS-04",
+  "plant_id": "AUS",
+  "priority": "orange",
+  "type": "claim",
+  "title": "Claim late-delivery credit on PO-24137 (Juniper Electric)",
+  "why": "30 VFD drives arrived 26 days late; the contract has a late-delivery credit.",
+  "params": {
+   "po_id": "PO-24137"
+  },
+  "status": "open",
+  "order": 3,
+  "created": "2026-10-26",
+  "source": "seed"
+ },
+ {
+  "id": "AUS-05",
+  "plant_id": "AUS",
+  "priority": "orange",
+  "type": "overcharge",
+  "title": "Overcharge on PO-24139 (Cobalt Bearings)",
+  "why": "$7.45 per bearing vs contract $6.80 on 4,000 units.",
+  "params": {
+   "po_id": "PO-24139"
+  },
+  "status": "open",
+  "order": 4,
+  "created": "2026-10-26",
+  "source": "seed"
+ },
+ {
+  "id": "AUS-06",
+  "plant_id": "AUS",
+  "priority": "orange",
+  "type": "renewal",
+  "title": "Renewal decision: Granite Controls contract",
+  "why": "Expires Dec 15; non-renewal notice due Nov 15.",
+  "params": {
+   "vendor_id": "V07"
+  },
+  "status": "open",
+  "order": 5,
+  "created": "2026-10-26",
+  "source": "seed"
+ },
+ {
+  "id": "AUS-07",
+  "plant_id": "AUS",
+  "priority": "low",
+  "type": "quote_refresh",
+  "title": "Request a fresh quote: Evergreen, P-110",
+  "why": "Evergreen's P-110 quote expired Oct 20; they are our fastest pump vendor.",
+  "params": {
+   "vendor_id": "V05",
+   "part_id": "P-110"
+  },
+  "status": "open",
+  "order": 6,
+  "created": "2026-10-26",
+  "source": "seed"
+ },
+ {
+  "id": "AUS-08",
+  "plant_id": "AUS",
+  "priority": "low",
+  "type": "claim",
+  "title": "Claim late-delivery credit on PO-24138 (Brightline Motion)",
+  "why": "12 servo motors arrived 11 days late.",
+  "params": {
+   "po_id": "PO-24138"
+  },
+  "status": "open",
+  "order": 7,
+  "created": "2026-10-26",
+  "source": "seed"
+ },
+ {
+  "id": "AUS-09",
+  "plant_id": "AUS",
+  "priority": "low",
+  "type": "overcharge",
+  "title": "Overcharge on PO-24141 (Granite Controls)",
+  "why": "$3,400 per PLC vs contract rate on 2 units.",
+  "params": {
+   "po_id": "PO-24141"
+  },
+  "status": "open",
+  "order": 8,
+  "created": "2026-10-26",
+  "source": "seed"
+ },
+ {
+  "id": "AUS-10",
+  "plant_id": "AUS",
+  "priority": "low",
+  "type": "market_watch",
+  "title": "Market watch: hydraulics and steel",
+  "why": "Weekly check of supply news for our two red categories.",
+  "params": {
+   "topics": [
+    "hydraulic pump supply",
+    "steel sheet prices"
+   ]
+  },
+  "status": "open",
+  "order": 9,
+  "created": "2026-10-26",
+  "source": "seed"
+ },
+ {
+  "id": "DAL-01",
+  "plant_id": "DAL",
+  "priority": "red",
+  "type": "restock",
+  "title": "Restock P-140 Gearbox GX-20",
+  "why": "1 on hand vs safety stock 3; about 7 days of cover. Critical part.",
+  "params": {
+   "part_id": "P-140"
+  },
+  "status": "open",
+  "order": 10,
+  "created": "2026-10-26",
+  "source": "seed"
+ },
+ {
+  "id": "DAL-02",
+  "plant_id": "DAL",
+  "priority": "red",
+  "type": "expired_contract",
+  "title": "Open PO-24145 with Delta Drive: contract expired",
+  "why": "Delta's contract expired Sep 30, but 4 servo motors are still on order (due Nov 5).",
+  "params": {
+   "po_id": "PO-24145",
+   "vendor_id": "V04"
+  },
+  "status": "open",
+  "order": 11,
+  "created": "2026-10-26",
+  "source": "seed"
+ },
+ {
+  "id": "DAL-03",
+  "plant_id": "DAL",
+  "priority": "orange",
+  "type": "overcharge",
+  "title": "Overcharge on PO-24142 (Harbor Steel Works)",
+  "why": "$108.50 per sheet vs contract rate on 300 sheets.",
+  "params": {
+   "po_id": "PO-24142"
+  },
+  "status": "open",
+  "order": 12,
+  "created": "2026-10-26",
+  "source": "seed"
+ },
+ {
+  "id": "DAL-04",
+  "plant_id": "DAL",
+  "priority": "orange",
+  "type": "renewal",
+  "title": "Renewal decision: Harbor Steel Works contract",
+  "why": "Expires Jan 9; non-renewal notice due Nov 10.",
+  "params": {
+   "vendor_id": "V08"
+  },
+  "status": "open",
+  "order": 13,
+  "created": "2026-10-26",
+  "source": "seed"
+ },
+ {
+  "id": "DAL-05",
+  "plant_id": "DAL",
+  "priority": "orange",
+  "type": "claim",
+  "title": "Claim late-delivery credit on PO-24146 (Northstar Automation)",
+  "why": "3,000 bearings arrived 18 days late.",
+  "params": {
+   "po_id": "PO-24146"
+  },
+  "status": "open",
+  "order": 14,
+  "created": "2026-10-26",
+  "source": "seed"
+ },
+ {
+  "id": "DAL-06",
+  "plant_id": "DAL",
+  "priority": "low",
+  "type": "quote_refresh",
+  "title": "Request a fresh quote: Apex Fluid Systems, P-300",
+  "why": "Apex's P-300 quote expires Oct 31; we reorder filters monthly.",
+  "params": {
+   "vendor_id": "V01",
+   "part_id": "P-300"
+  },
+  "status": "open",
+  "order": 15,
+  "created": "2026-10-26",
+  "source": "seed"
+ },
+ {
+  "id": "DAL-07",
+  "plant_id": "DAL",
+  "priority": "low",
+  "type": "ship_confirm",
+  "title": "Confirm ship date: PO-24142 (Harbor Steel)",
+  "why": "300 steel sheets due Oct 31; no ship confirmation yet.",
+  "params": {
+   "po_id": "PO-24142"
+  },
+  "status": "open",
+  "order": 16,
+  "created": "2026-10-26",
+  "source": "seed"
+ },
+ {
+  "id": "DAL-08",
+  "plant_id": "DAL",
+  "priority": "low",
+  "type": "market_watch",
+  "title": "Market watch: steel and gearboxes",
+  "why": "Weekly check of supply news.",
+  "params": {
+   "topics": [
+    "steel sheet prices",
+    "industrial gearbox supply"
+   ]
+  },
+  "status": "open",
+  "order": 17,
+  "created": "2026-10-26",
+  "source": "seed"
+ },
+ {
+  "id": "DAL-09",
+  "plant_id": "DAL",
+  "priority": "low",
+  "type": "vendor_review",
+  "title": "Vendor review: Lumen Sensors (risk 63)",
+  "why": "Medium-risk vendor with no auto-renewal; check before the next sensor order.",
+  "params": {
+   "vendor_id": "V12"
+  },
+  "status": "open",
+  "order": 18,
+  "created": "2026-10-26",
+  "source": "seed"
+ },
+ {
+  "id": "DAL-10",
+  "plant_id": "DAL",
+  "priority": "low",
+  "type": "space_review",
+  "title": "Warehouse space check",
+  "why": "Make sure the steel delivery on Oct 31 fits.",
+  "params": {},
+  "status": "open",
+  "order": 19,
+  "created": "2026-10-26",
+  "source": "seed"
+ }
+]

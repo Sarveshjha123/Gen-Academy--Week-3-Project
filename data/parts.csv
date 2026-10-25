@@ -1,0 +1,21 @@
+part_id,part_name,category,typical_price_usd,storage_units_per_item,critical
+P-110,Hydraulic Pump HP-40,Hydraulics,1850,6.0,yes
+P-120,Servo Motor 2kW,Motion,1240,3.0,yes
+P-130,Ball Bearing 6205,Bearings,6.8,0.05,no
+P-140,Gearbox GX-20,Motion,2900,8.0,yes
+P-150,Proximity Sensor PX-12,Sensors,48,0.1,no
+P-160,PLC Controller C-500,Controls,3400,1.5,yes
+P-170,Conveyor Belt 10m,Conveying,620,4.0,no
+P-180,Pneumatic Valve PV-3,Pneumatics,135,0.3,no
+P-190,Hydraulic Hose 2m,Hydraulics,42,0.4,no
+P-200,Industrial Gasket Kit,Seals,18,0.1,no
+P-210,Steel Sheet 2mm,Metals,95,1.2,no
+P-220,Aluminium Extrusion 6m,Metals,64,1.5,no
+P-230,Welding Wire Spool,Consumables,88,0.6,no
+P-240,Safety Relay SR-2,Controls,210,0.1,yes
+P-250,VFD Drive 5kW,Motion,980,2.0,yes
+P-260,Coolant 20L,Consumables,74,0.8,no
+P-270,Linear Guide Rail,Motion,310,1.0,no
+P-280,Fastener Kit M8,Fasteners,22,0.2,no
+P-290,Power Supply 24V,Controls,160,0.3,no
+P-300,Filter Cartridge FC-9,Hydraulics,36,0.3,no

@@ -1,0 +1,22 @@
+# Agent framework (course stack)
+langchain>=1.4,<2
+langgraph>=1.0,<2
+langchain-openai             # talks to Nebius (OpenAI-compatible)
+deepagents>=0.7,<0.8         # supervisor + sub-agents + shared folder
+# MCP (the adapter needs the v1 SDK)
+mcp>=1.24,<2
+langchain-mcp-adapters
+# Knowledge + memory + web
+pinecone
+langchain-pinecone
+langchain-huggingface
+sentence-transformers
+langchain-text-splitters
+mem0ai
+tavily-python
+langsmith
+# Data + app
+pandas
+pyyaml
+python-dotenv
+streamlit

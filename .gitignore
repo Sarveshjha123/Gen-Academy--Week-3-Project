@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+index/
+workspace/drafts/*
+workspace/outbox/*
+workspace/memory/*
+workspace/research/*
+workspace/runs/*
+workspace/tasks/*
+!workspace/**/.gitkeep
+eval/results/*
+!eval/results/.gitkeep
+.DS_Store

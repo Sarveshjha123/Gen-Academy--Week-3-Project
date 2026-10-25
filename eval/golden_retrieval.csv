@@ -1,0 +1,177 @@
+namespace,filter_key,filter_value,query,expected_doc,expected_section
+contracts,vendor_id,V01,late delivery penalty liquidated damages credit,MSA-V01-2025,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V01,when does the agreement expire and does it renew,MSA-V01-2025,1. Term and Renewal
+contracts,vendor_id,V01,damaged or defective goods claim window and replacement,MSA-V01-2025,"6. Inspection, Damage and Defects"
+contracts,vendor_id,V01,payment terms for invoices,MSA-V01-2025,8. Invoicing and Payment
+contracts,vendor_id,V01,maximum price increase per year,MSA-V01-2025,3. Price Adjustments
+contracts,vendor_id,V01,contract unit price list for parts,MSA-V01-2025,Appendix A: Contract Price Schedule
+contracts,vendor_id,V01,minimum order quantity and lead time,MSA-V01-2025,"4. Orders, Minimum Quantities and Lead Times"
+contracts,vendor_id,V01,terminate the agreement notice,MSA-V01-2025,10. Termination
+contracts,,,Apex Fluid Systems late delivery penalty,MSA-V01-2025,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V02,late delivery penalty liquidated damages credit,MSA-V02-2025,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V02,when does the agreement expire and does it renew,MSA-V02-2025,1. Term and Renewal
+contracts,vendor_id,V02,damaged or defective goods claim window and replacement,MSA-V02-2025,"6. Inspection, Damage and Defects"
+contracts,vendor_id,V02,payment terms for invoices,MSA-V02-2025,8. Invoicing and Payment
+contracts,vendor_id,V02,maximum price increase per year,MSA-V02-2025,3. Price Adjustments
+contracts,vendor_id,V02,contract unit price list for parts,MSA-V02-2025,Appendix A: Contract Price Schedule
+contracts,vendor_id,V02,minimum order quantity and lead time,MSA-V02-2025,"4. Orders, Minimum Quantities and Lead Times"
+contracts,vendor_id,V02,terminate the agreement notice,MSA-V02-2025,10. Termination
+contracts,,,Brightline Motion late delivery penalty,MSA-V02-2025,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V03,late delivery penalty liquidated damages credit,MSA-V03-2025,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V03,when does the agreement expire and does it renew,MSA-V03-2025,1. Term and Renewal
+contracts,vendor_id,V03,damaged or defective goods claim window and replacement,MSA-V03-2025,"6. Inspection, Damage and Defects"
+contracts,vendor_id,V03,payment terms for invoices,MSA-V03-2025,8. Invoicing and Payment
+contracts,vendor_id,V03,maximum price increase per year,MSA-V03-2025,3. Price Adjustments
+contracts,vendor_id,V03,contract unit price list for parts,MSA-V03-2025,Appendix A: Contract Price Schedule
+contracts,vendor_id,V03,minimum order quantity and lead time,MSA-V03-2025,"4. Orders, Minimum Quantities and Lead Times"
+contracts,vendor_id,V03,terminate the agreement notice,MSA-V03-2025,10. Termination
+contracts,,,Cobalt Bearings Co. late delivery penalty,MSA-V03-2025,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V04,late delivery penalty liquidated damages credit,MSA-V04-2025,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V04,when does the agreement expire and does it renew,MSA-V04-2025,1. Term and Renewal
+contracts,vendor_id,V04,damaged or defective goods claim window and replacement,MSA-V04-2025,"6. Inspection, Damage and Defects"
+contracts,vendor_id,V04,payment terms for invoices,MSA-V04-2025,8. Invoicing and Payment
+contracts,vendor_id,V04,maximum price increase per year,MSA-V04-2025,3. Price Adjustments
+contracts,vendor_id,V04,contract unit price list for parts,MSA-V04-2025,Appendix A: Contract Price Schedule
+contracts,vendor_id,V04,minimum order quantity and lead time,MSA-V04-2025,"4. Orders, Minimum Quantities and Lead Times"
+contracts,vendor_id,V04,terminate the agreement notice,MSA-V04-2025,10. Termination
+contracts,,,Delta Drive Components late delivery penalty,MSA-V04-2025,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V05,late delivery penalty liquidated damages credit,MSA-V05-2025,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V05,when does the agreement expire and does it renew,MSA-V05-2025,1. Term and Renewal
+contracts,vendor_id,V05,damaged or defective goods claim window and replacement,MSA-V05-2025,"6. Inspection, Damage and Defects"
+contracts,vendor_id,V05,payment terms for invoices,MSA-V05-2025,8. Invoicing and Payment
+contracts,vendor_id,V05,maximum price increase per year,MSA-V05-2025,3. Price Adjustments
+contracts,vendor_id,V05,contract unit price list for parts,MSA-V05-2025,Appendix A: Contract Price Schedule
+contracts,vendor_id,V05,minimum order quantity and lead time,MSA-V05-2025,"4. Orders, Minimum Quantities and Lead Times"
+contracts,vendor_id,V05,terminate the agreement notice,MSA-V05-2025,10. Termination
+contracts,,,Evergreen Industrial Supply late delivery penalty,MSA-V05-2025,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V06,late delivery penalty liquidated damages credit,MSA-V06-2025,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V06,when does the agreement expire and does it renew,MSA-V06-2025,1. Term and Renewal
+contracts,vendor_id,V06,damaged or defective goods claim window and replacement,MSA-V06-2025,"6. Inspection, Damage and Defects"
+contracts,vendor_id,V06,payment terms for invoices,MSA-V06-2025,8. Invoicing and Payment
+contracts,vendor_id,V06,maximum price increase per year,MSA-V06-2025,3. Price Adjustments
+contracts,vendor_id,V06,contract unit price list for parts,MSA-V06-2025,Appendix A: Contract Price Schedule
+contracts,vendor_id,V06,minimum order quantity and lead time,MSA-V06-2025,"4. Orders, Minimum Quantities and Lead Times"
+contracts,vendor_id,V06,terminate the agreement notice,MSA-V06-2025,10. Termination
+contracts,,,Forge & Fastener Inc. late delivery penalty,MSA-V06-2025,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V07,late delivery penalty liquidated damages credit,MSA-V07-2024,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V07,when does the agreement expire and does it renew,MSA-V07-2024,1. Term and Renewal
+contracts,vendor_id,V07,damaged or defective goods claim window and replacement,MSA-V07-2024,"6. Inspection, Damage and Defects"
+contracts,vendor_id,V07,payment terms for invoices,MSA-V07-2024,8. Invoicing and Payment
+contracts,vendor_id,V07,maximum price increase per year,MSA-V07-2024,3. Price Adjustments
+contracts,vendor_id,V07,contract unit price list for parts,MSA-V07-2024,Appendix A: Contract Price Schedule
+contracts,vendor_id,V07,minimum order quantity and lead time,MSA-V07-2024,"4. Orders, Minimum Quantities and Lead Times"
+contracts,vendor_id,V07,terminate the agreement notice,MSA-V07-2024,10. Termination
+contracts,,,Granite Controls late delivery penalty,MSA-V07-2024,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V08,late delivery penalty liquidated damages credit,MSA-V08-2025,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V08,when does the agreement expire and does it renew,MSA-V08-2025,1. Term and Renewal
+contracts,vendor_id,V08,damaged or defective goods claim window and replacement,MSA-V08-2025,"6. Inspection, Damage and Defects"
+contracts,vendor_id,V08,payment terms for invoices,MSA-V08-2025,8. Invoicing and Payment
+contracts,vendor_id,V08,maximum price increase per year,MSA-V08-2025,3. Price Adjustments
+contracts,vendor_id,V08,contract unit price list for parts,MSA-V08-2025,Appendix A: Contract Price Schedule
+contracts,vendor_id,V08,minimum order quantity and lead time,MSA-V08-2025,"4. Orders, Minimum Quantities and Lead Times"
+contracts,vendor_id,V08,terminate the agreement notice,MSA-V08-2025,10. Termination
+contracts,,,Harbor Steel Works late delivery penalty,MSA-V08-2025,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V09,late delivery penalty liquidated damages credit,MSA-V09-2025,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V09,when does the agreement expire and does it renew,MSA-V09-2025,1. Term and Renewal
+contracts,vendor_id,V09,damaged or defective goods claim window and replacement,MSA-V09-2025,"6. Inspection, Damage and Defects"
+contracts,vendor_id,V09,payment terms for invoices,MSA-V09-2025,8. Invoicing and Payment
+contracts,vendor_id,V09,maximum price increase per year,MSA-V09-2025,3. Price Adjustments
+contracts,vendor_id,V09,contract unit price list for parts,MSA-V09-2025,Appendix A: Contract Price Schedule
+contracts,vendor_id,V09,minimum order quantity and lead time,MSA-V09-2025,"4. Orders, Minimum Quantities and Lead Times"
+contracts,vendor_id,V09,terminate the agreement notice,MSA-V09-2025,10. Termination
+contracts,,,Ironwood Hydraulics late delivery penalty,MSA-V09-2025,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V10,late delivery penalty liquidated damages credit,MSA-V10-2024,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V10,when does the agreement expire and does it renew,MSA-V10-2024,1. Term and Renewal
+contracts,vendor_id,V10,damaged or defective goods claim window and replacement,MSA-V10-2024,"6. Inspection, Damage and Defects"
+contracts,vendor_id,V10,payment terms for invoices,MSA-V10-2024,8. Invoicing and Payment
+contracts,vendor_id,V10,maximum price increase per year,MSA-V10-2024,3. Price Adjustments
+contracts,vendor_id,V10,contract unit price list for parts,MSA-V10-2024,Appendix A: Contract Price Schedule
+contracts,vendor_id,V10,minimum order quantity and lead time,MSA-V10-2024,"4. Orders, Minimum Quantities and Lead Times"
+contracts,vendor_id,V10,terminate the agreement notice,MSA-V10-2024,10. Termination
+contracts,,,Juniper Electric late delivery penalty,MSA-V10-2024,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V11,late delivery penalty liquidated damages credit,MSA-V11-2025,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V11,when does the agreement expire and does it renew,MSA-V11-2025,1. Term and Renewal
+contracts,vendor_id,V11,damaged or defective goods claim window and replacement,MSA-V11-2025,"6. Inspection, Damage and Defects"
+contracts,vendor_id,V11,payment terms for invoices,MSA-V11-2025,8. Invoicing and Payment
+contracts,vendor_id,V11,maximum price increase per year,MSA-V11-2025,3. Price Adjustments
+contracts,vendor_id,V11,contract unit price list for parts,MSA-V11-2025,Appendix A: Contract Price Schedule
+contracts,vendor_id,V11,minimum order quantity and lead time,MSA-V11-2025,"4. Orders, Minimum Quantities and Lead Times"
+contracts,vendor_id,V11,terminate the agreement notice,MSA-V11-2025,10. Termination
+contracts,,,Keystone Pneumatics late delivery penalty,MSA-V11-2025,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V12,late delivery penalty liquidated damages credit,MSA-V12-2024,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V12,when does the agreement expire and does it renew,MSA-V12-2024,1. Term and Renewal
+contracts,vendor_id,V12,damaged or defective goods claim window and replacement,MSA-V12-2024,"6. Inspection, Damage and Defects"
+contracts,vendor_id,V12,payment terms for invoices,MSA-V12-2024,8. Invoicing and Payment
+contracts,vendor_id,V12,maximum price increase per year,MSA-V12-2024,3. Price Adjustments
+contracts,vendor_id,V12,contract unit price list for parts,MSA-V12-2024,Appendix A: Contract Price Schedule
+contracts,vendor_id,V12,minimum order quantity and lead time,MSA-V12-2024,"4. Orders, Minimum Quantities and Lead Times"
+contracts,vendor_id,V12,terminate the agreement notice,MSA-V12-2024,10. Termination
+contracts,,,Lumen Sensors late delivery penalty,MSA-V12-2024,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V13,late delivery penalty liquidated damages credit,MSA-V13-2024,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V13,when does the agreement expire and does it renew,MSA-V13-2024,1. Term and Renewal
+contracts,vendor_id,V13,damaged or defective goods claim window and replacement,MSA-V13-2024,"6. Inspection, Damage and Defects"
+contracts,vendor_id,V13,payment terms for invoices,MSA-V13-2024,8. Invoicing and Payment
+contracts,vendor_id,V13,maximum price increase per year,MSA-V13-2024,3. Price Adjustments
+contracts,vendor_id,V13,contract unit price list for parts,MSA-V13-2024,Appendix A: Contract Price Schedule
+contracts,vendor_id,V13,minimum order quantity and lead time,MSA-V13-2024,"4. Orders, Minimum Quantities and Lead Times"
+contracts,vendor_id,V13,terminate the agreement notice,MSA-V13-2024,10. Termination
+contracts,,,Meridian Metals late delivery penalty,MSA-V13-2024,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V14,late delivery penalty liquidated damages credit,MSA-V14-2024,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V14,when does the agreement expire and does it renew,MSA-V14-2024,1. Term and Renewal
+contracts,vendor_id,V14,damaged or defective goods claim window and replacement,MSA-V14-2024,"6. Inspection, Damage and Defects"
+contracts,vendor_id,V14,payment terms for invoices,MSA-V14-2024,8. Invoicing and Payment
+contracts,vendor_id,V14,maximum price increase per year,MSA-V14-2024,3. Price Adjustments
+contracts,vendor_id,V14,contract unit price list for parts,MSA-V14-2024,Appendix A: Contract Price Schedule
+contracts,vendor_id,V14,minimum order quantity and lead time,MSA-V14-2024,"4. Orders, Minimum Quantities and Lead Times"
+contracts,vendor_id,V14,terminate the agreement notice,MSA-V14-2024,10. Termination
+contracts,,,Northstar Automation late delivery penalty,MSA-V14-2024,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V15,late delivery penalty liquidated damages credit,MSA-V15-2024,"5. Delivery, Fulfilment and Late Delivery"
+contracts,vendor_id,V15,when does the agreement expire and does it renew,MSA-V15-2024,1. Term and Renewal
+contracts,vendor_id,V15,damaged or defective goods claim window and replacement,MSA-V15-2024,"6. Inspection, Damage and Defects"
+contracts,vendor_id,V15,payment terms for invoices,MSA-V15-2024,8. Invoicing and Payment
+contracts,vendor_id,V15,maximum price increase per year,MSA-V15-2024,3. Price Adjustments
+contracts,vendor_id,V15,contract unit price list for parts,MSA-V15-2024,Appendix A: Contract Price Schedule
+contracts,vendor_id,V15,minimum order quantity and lead time,MSA-V15-2024,"4. Orders, Minimum Quantities and Lead Times"
+contracts,vendor_id,V15,terminate the agreement notice,MSA-V15-2024,10. Termination
+contracts,,,Orion Seals & Gaskets late delivery penalty,MSA-V15-2024,"5. Delivery, Fulfilment and Late Delivery"
+policies,plant_id,AUS,who approves a purchase of this value,POL-AUS-2026,2. Approval Levels
+policies,plant_id,AUS,emergency purchase when stock runs out,POL-AUS-2026,3. Emergency Purchases
+policies,plant_id,AUS,high risk vendor rules,POL-AUS-2026,4. Vendor Risk Rules
+policies,plant_id,AUS,what must a purchase request contain,POL-AUS-2026,7. What a Purchase Request Must Contain
+policies,plant_id,AUS,transfer stock from another plant,POL-AUS-2026,6. Inter-Plant Transfers
+policies,plant_id,DAL,who approves a purchase of this value,POL-DAL-2026,2. Approval Levels
+policies,plant_id,DAL,emergency purchase when stock runs out,POL-DAL-2026,3. Emergency Purchases
+policies,plant_id,DAL,high risk vendor rules,POL-DAL-2026,4. Vendor Risk Rules
+policies,plant_id,DAL,what must a purchase request contain,POL-DAL-2026,7. What a Purchase Request Must Contain
+policies,plant_id,DAL,transfer stock from another plant,POL-DAL-2026,6. Inter-Plant Transfers
+policies,plant_id,HOU,who approves a purchase of this value,POL-HOU-2026,2. Approval Levels
+policies,plant_id,HOU,emergency purchase when stock runs out,POL-HOU-2026,3. Emergency Purchases
+policies,plant_id,HOU,high risk vendor rules,POL-HOU-2026,4. Vendor Risk Rules
+policies,plant_id,HOU,what must a purchase request contain,POL-HOU-2026,7. What a Purchase Request Must Contain
+policies,plant_id,HOU,transfer stock from another plant,POL-HOU-2026,6. Inter-Plant Transfers
+policies,plant_id,PHX,who approves a purchase of this value,POL-PHX-2026,2. Approval Levels
+policies,plant_id,PHX,emergency purchase when stock runs out,POL-PHX-2026,3. Emergency Purchases
+policies,plant_id,PHX,high risk vendor rules,POL-PHX-2026,4. Vendor Risk Rules
+policies,plant_id,PHX,what must a purchase request contain,POL-PHX-2026,7. What a Purchase Request Must Contain
+policies,plant_id,PHX,transfer stock from another plant,POL-PHX-2026,6. Inter-Plant Transfers
+policies,plant_id,DEN,who approves a purchase of this value,POL-DEN-2026,2. Approval Levels
+policies,plant_id,DEN,emergency purchase when stock runs out,POL-DEN-2026,3. Emergency Purchases
+policies,plant_id,DEN,high risk vendor rules,POL-DEN-2026,4. Vendor Risk Rules
+policies,plant_id,DEN,what must a purchase request contain,POL-DEN-2026,7. What a Purchase Request Must Contain
+policies,plant_id,DEN,transfer stock from another plant,POL-DEN-2026,6. Inter-Plant Transfers
+policies,plant_id,AUS+GLOBAL,contract has expired can we still order,POL-GLOBAL-CONTRACTS-2026,2. Contract Must Be in Force
+policies,plant_id,AUS+GLOBAL,renew or renegotiate a contract based on fill rate,POL-GLOBAL-CONTRACTS-2026,3. Renewal Decisions
+policies,plant_id,AUS+GLOBAL,vendor charged more than the contract price,POL-GLOBAL-CONTRACTS-2026,4. Prices Above the Contract Rate
+policies,plant_id,AUS+GLOBAL,who can waive a late-delivery credit,POL-GLOBAL-CONTRACTS-2026,5. Late-Delivery Credits
+policies,plant_id,AUS+GLOBAL,overdue order from a high-risk vendor,POL-GLOBAL-CONTRACTS-2026,6. High-Risk Vendors
+policies,plant_id,AUS+GLOBAL,what to do after a purchase request is rejected,POL-GLOBAL-PO-2026,5. After Rejection
+policies,plant_id,AUS+GLOBAL,how many vendors must be compared,POL-GLOBAL-PO-2026,2. Vendor Comparison
+policies,plant_id,AUS+GLOBAL,check other plants for stock before buying,POL-GLOBAL-PO-2026,1. Before Buying
+policies,plant_id,DAL+GLOBAL,contract has expired can we still order,POL-GLOBAL-CONTRACTS-2026,2. Contract Must Be in Force
+policies,plant_id,DAL+GLOBAL,renew or renegotiate a contract based on fill rate,POL-GLOBAL-CONTRACTS-2026,3. Renewal Decisions
+policies,plant_id,DAL+GLOBAL,vendor charged more than the contract price,POL-GLOBAL-CONTRACTS-2026,4. Prices Above the Contract Rate
+policies,plant_id,DAL+GLOBAL,who can waive a late-delivery credit,POL-GLOBAL-CONTRACTS-2026,5. Late-Delivery Credits
+policies,plant_id,DAL+GLOBAL,overdue order from a high-risk vendor,POL-GLOBAL-CONTRACTS-2026,6. High-Risk Vendors
+policies,plant_id,DAL+GLOBAL,what to do after a purchase request is rejected,POL-GLOBAL-PO-2026,5. After Rejection
+policies,plant_id,DAL+GLOBAL,how many vendors must be compared,POL-GLOBAL-PO-2026,2. Vendor Comparison
+policies,plant_id,DAL+GLOBAL,check other plants for stock before buying,POL-GLOBAL-PO-2026,1. Before Buying
