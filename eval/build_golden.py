@@ -52,6 +52,8 @@ def main():
          "recommend_restock", "", f"{r140['vendor_options'][0]['vendor_name'].split()[0]};{r140['stock']['run_out_date']}", "in"),
         ("R4", "restock+own qty", "AUS", "Help me order 80 quantity P-110 Hydraulic Pump HP-40",
          "recommend_restock", "", "80;$150,640|150,640;32;split;Thomas Grey|Finance Head", "in"),
+        ("R8", "restock+minimum", "AUS", "I want to order just 1 P-110 hydraulic pump.",
+         "recommend_restock", "", "2;minimum", "in"),
         ("R5", "restock+speed", "AUS", "I need 10 servo motors P-120. Which vendor can deliver fastest?",
          "recommend_restock|get_vendors_for_part", "", f"{fastest['vendor_name'].split()[0]};{fastest['lead_time_days']}", "in"),
         ("R6", "restock+risk", "AUS", "Can I just buy the pumps from Ironwood? They are the cheapest.",

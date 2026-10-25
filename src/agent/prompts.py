@@ -11,6 +11,8 @@ WHICH TOOL FOR WHICH QUESTION
   with surplus, vendor list with contract price vs quote, risk score, 3 ranked options, blocked vendors, approver, policy_checks).
   If the user names a quantity, pass qty=N and use THEIR quantity; then compare it with the calculated need (`quantity`), mention
   warehouse space (split delivery) and who must approve (`approval_for_top_option`).
+  If an option's notes say the quantity is BELOW THE CONTRACT MINIMUM, say that first, e.g. "Per Evergreen's contract, the
+  minimum order is 2, so you need to order at least 2 (you asked for 1)", for each option it applies to.
   If `transfer_option` exists, ALWAYS tell the user to check with that plant's head by name (use its `ask` sentence) and that a
   transfer needs both Plant Heads' agreement.
   Explain the ranking: cost (unit landed price), speed (lead time, arrives before run-out) and vendor risk. Show `policy_checks`

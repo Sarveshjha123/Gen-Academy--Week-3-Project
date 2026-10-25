@@ -140,7 +140,7 @@ python -m eval.test_scenarios          # 1b. every task path, approve AND reject
 python -m eval.eval_retrieval          # 2a. Pinecone: contracts, plant policies, company policies (hit@1 / hit@3)
 python -m eval.eval_components         # 2b. contract-analyst on 15 contracts; drafter + critic on 5 purchase requests
 python -m eval.eval_scenarios          # 3a. task cards with the REAL sub-agents + a scripted Plant Head (11 scenarios)
-python -m eval.eval_agent              # 3b. chat: 50 real Plant Head questions incl. out-of-scope (--repeat 2 for consistency)
+python -m eval.eval_agent              # 3b. chat: 51 real Plant Head questions incl. out-of-scope (--repeat 2 for consistency)
 ```
 
 | Layer | What is measured | How |
